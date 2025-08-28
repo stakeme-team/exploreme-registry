@@ -33,8 +33,8 @@ Each validator file must be a JSON file named after the validator's moniker and 
   "banner": "https://raw.githubusercontent.com/stakeme-team/contributing-projects/master/files/stakeme-banner.png",
   "avatar": "https://s3.amazonaws.com/keybase_processed_uploads/76937fb26c620e11254b042fe7d73705_360_360.jpg",
   "twitterUrl": "https://x.com/stakeme_pro",
-  "githubUrl": "https://github.com/stakemepro",
-  "webUrl": "http://stakeme.pro",
+  "githubUrl": "https://github.com/stakeme-team",
+  "webUrl": "https://stakeme.pro",
   "identity": "5EAD753536BB995C",
   "securityContact": "team@stakeme.pro",
   "addresses": {
