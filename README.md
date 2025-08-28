@@ -38,7 +38,7 @@ Each validator file must be a JSON file named after the validator's moniker and 
   "identity": "5EAD753536BB995C",
   "securityContact": "team@stakeme.pro",
   "addresses": {
-    "somnia": "0xA62708904Ef5F0192e9CB544f3d79Bec2029B7d2"
+    "somnia": "0xe8e4d93aa612a79d87a8a89af827136d5cbd8f59"
   },
   "bridges": {
     "celestia": "12D3KooWG4hgLXjo6agYdbtQEYuZnNy9ttAnLtNJzsCLVj3kPH4v"
