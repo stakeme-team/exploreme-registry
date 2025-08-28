@@ -1,0 +1,20 @@
+{
+  "moniker": "STAKEME",
+  "details": "STAKEME helps web 3.0 projects to test their product, and provide the most efficient development support",
+  "banner": "https://raw.githubusercontent.com/stakeme-team/contributing-projects/master/files/stakeme-banner.png",
+  "avatar": "https://s3.amazonaws.com/keybase_processed_uploads/76937fb26c620e11254b042fe7d73705_360_360.jpg",
+  "twitterUrl": "https://x.com/stakeme_pro",
+  "githubUrl": "https://github.com/stakeme-team",
+  "webUrl": "https://stakeme.pro",
+  "identity": "5EAD753536BB995C",
+  "securityContact": "team@stakeme.pro",
+  "addresses": {
+    "sei": "seivaloper15xgfk9cnt56xjvqvetjvg3wlqlslfnqfc03dwk",
+    "celestia": "celestiavaloper1vfkgjmjxkvj0kfnzf5jkjzkj7wn3ms8d83ljks",
+    "story": "storyvaloper14cpdax92t55jjf27qta2f8ntqzdy4hkup4dcrx",
+    "somnia": "0xe8e4d93aa612a79d87a8a89af827136d5cbd8f59"
+  },
+  "bridges": {
+    "celestia": "12D3KooWG4hgLXjo6agYdbtQEYuZnNy9ttAnLtNJzsCLVj3kPH4v"
+  }
+}
