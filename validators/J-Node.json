@@ -1,0 +1,14 @@
+{
+  "moniker": "J-Node",
+  "details": "J•Node: Secure, high-performance validator with low fees, 24/7 monitoring, and slashing refund policy. Committed to decentralization and long-term network growth.",
+  "banner": "https://raw.githubusercontent.com/Josephtran102/j-node-logo/refs/heads/main/J-node-banner.png",
+  "avatar": "https://raw.githubusercontent.com/Josephtran102/j-node-logo/refs/heads/main/72DDF49D3F7D94C9.png",
+  "twitterUrl": "https://x.com/jnode_operator",
+  "githubUrl": "https://github.com/j-node-net",
+  "webUrl": "https://j-node.net",
+  "identity": "72DDF49D3F7D94C9",
+  "securityContact": "josephtran@j-node.net",
+  "addresses": {
+    "0g": "0x04a7139cfcfe7de723a5e223322eecdcca5e7083",
+  },
+}
