@@ -11,7 +11,8 @@
   "addresses": {
     "sei": "seivaloper1hnkkqnzwmyw652muh6wfea7xlfgplnyj0ku4w4",
     "celestia": "celestiavaloper1uqj5ul7jtpskk9ste9mfv6jvh0y3w34vtpz3gw",
-    "somnia": "0xa063e77c64667c9654ef8a3ee38c8cf0613e82b2"
+    "somnia": "0xa063e77c64667c9654ef8a3ee38c8cf0613e82b2",
+    "somnia-testnet": "0xd9a8ec483041e18376e16b16590b42544bbc9160"
   },
   "bridges": {
     "celestia": "12D3KooWJgWcLLiNnYqLihKW1PFuPDBT1uWoFengKXrTxVyiUwca"
