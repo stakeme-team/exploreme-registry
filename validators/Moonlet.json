@@ -1,0 +1,13 @@
+{
+  "moniker": "Moonlet",
+  "details": "We bring the future of Web3 infrastructure. AI-driven, compliant, reliable, more than just code.",
+  "banner": "https://storage.googleapis.com/assets.tiexo.com/moonlet-website/moonlet_banner.png",
+  "avatar": "https://storage.googleapis.com/assets.tiexo.com/moonlet-website/moonlet_logo.png",
+  "twitterUrl": "https://x.com/moonlet_hq",
+  "githubUrl": "https://github.com/Moonlet",
+  "webUrl": "https://moonlet.io/",
+  "securityContact": "team@moonlet.io",
+  "addresses": {
+    "somnia": "0x55C488B54117087dAC1Ccd983F87FC796cdB7be8"
+  }
+}
