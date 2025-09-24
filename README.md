@@ -5,22 +5,18 @@
 
 This repository serves as a repository where validators can send requests to the pool, and after its approval, information about the validator will appear in the explorer.
 
-## Repository structure
+## How to submit your validator information
 
-The repository follows a simple structure to organize validator data:
-
-```
-validators/
-├── STAKEME.json
-├── validator-name-2.json
-├── validator-name-3.json
-└── ...
-```
-
-### Directory structure explanation
-
-- **Root level**: `validators/` - Main directory containing all validator data
-- **File level**: `validator-moniker.json` - Individual validator files named by their moniker/name
+1. **Fork this repository**
+2. **Create your validator file**:
+   - Name the file with your validator moniker: `{your-moniker}.json`
+   - Place it in the `validators/` directory
+   - Follow the JSON format specified above
+3. **Submit a Pull Request** with your changes
+   - Commit your changes
+   - Push the changes to your forked repository
+   - Create a Pull Request to this repository
+5. **Wait for review and approval**
 
 ## Validator data format
 
@@ -50,7 +46,7 @@ Each validator file must be a JSON file named after the validator's moniker and 
 
 | Field | Type | Description |
 |-------|------|-------------|
-| `addresses` | object | Key-value pairs where key is project name and value is validator address |
+| `addresses` | object | Key-value pairs where key is project name and value is validator address. **For mainnet networks, use only the network name (e.g., somnia). For testnets, append a "-testnet" suffix (e.g., somnia-testnet).** |
 | `moniker` | string | Human-readable name for the validator |
 | `details` | string | Description of the validator and their services |
 
@@ -67,16 +63,22 @@ Each validator file must be a JSON file named after the validator's moniker and 
 | `securityContact` | string | Email address for security-related communications |
 | `bridges` | object | Key-value pairs where key is project name and value is bridge node hash |
 
-## How to submit your validator information
+### Directory structure explanation
 
-1. **Fork this repository**
-2. **Create your validator file**:
-   - Name the file with your validator moniker: `{your-moniker}.json`
-   - Place it in the `validators/` directory
-   - Follow the JSON format specified above
-3. **Submit a Pull Request** with your changes
-4. **Wait for review and approval**
+- **Root level**: `validators/` - Main directory containing all validator data
+- **File level**: `validator-moniker.json` - Individual validator files named by their moniker/name
 
+## Repository structure
+
+The repository follows a simple structure to organize validator data:
+
+```
+validators/
+├── STAKEME.json
+├── validator-name-2.json
+├── validator-name-3.json
+└── ...
+```
 
 ## Validation rules
 
