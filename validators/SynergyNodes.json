@@ -1,0 +1,14 @@
+{
+  "moniker": "Synergy Nodes",
+  "details": "We are operating a secure, stable Validator Node for multiple mainnet chains. We provide infrastructure support - public RPC, LCD endpoints, daily snapshots, operate multiple IBC Relayers, Blockchain Explorers, etc. All info on our website.",
+  "banner": "https://raw.githubusercontent.com/SynergyNodes/SynergyNodes_Logo/refs/heads/main/SynergyNodes-Header.jpeg",
+  "avatar": "https://raw.githubusercontent.com/SynergyNodes/SynergyNodes_Logo/refs/heads/main/Synergy_Nodes_Logo.png",
+  "twitterUrl": "https://x.com/SynergyNodes",
+  "githubUrl": "https://github.com/synergynodes",
+  "webUrl": "https://www.synergynodes.com",
+  "identity": "673CA76602A5AC88",
+  "securityContact": "contact@synergynodes.com",
+  "addresses": {
+    "somnia-testnet": "0x902c82753094c613bf33ab1d23027ab8184dff1f"
+  }
+}
