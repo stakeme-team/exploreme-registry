@@ -1,0 +1,18 @@
+{
+  "moniker": "MekongLabs",
+  "details": "A professional trusted validator",
+  "banner": "https://raw.githubusercontent.com/Mekong-labs/NodeGuide/main/banner.png",
+  "avatar": "https://raw.githubusercontent.com/Mekong-labs/NodeGuide/main/MEKONG.png",
+  "twitterUrl": "https://x.com/Juilan_mr",
+  "githubUrl": "https://github.com/Mekong-labs",
+  "webUrl": "https://mekonglabs.tech",
+  "identity": "BF8CA45CC0B2EF52",
+  "securityContact": "jeremy@mekonglabs.tech",
+  "addresses": {
+    "namada": "tnam1q9ke0dkyn6k5288qgl834pa8ukxp4l2tqqmjq9sl",
+    "sunrise": "sunrisevaloper1vkcweyvq8vdw48mewzzfwczh60yyeyhakdrpn4",
+    "lumera": "lumeravaloper1jzmqvv3s9whxv4vafnj8ry4mvxref0fflxry0y",
+    "laconic": "laconicvaloper1ul4pjf0s3jh7shgfrs6jfa0zvyd6rmhxgf8678",
+    "bitbadges": "bbvaloper128mqnq92t6pzrkwhjq2jwucuqyl5gmrf0hcyx6"
+  }
+}
