@@ -1,0 +1,14 @@
+  {
+    "moniker": "OriginStake",
+    "details": "OriginStake is a trusted Proof-of-Stake infrastructure provider and validator to comfortably stake your coins and earn rewards with Story Protocol.",
+    "banner": "",
+    "avatar": "https://raw.githubusercontent.com/OriginStake/ogs-media/refs/heads/main/Logo/PNG/OriginStake_Logo_1.png",
+    "twitterUrl": "https://originstake.com",
+    "githubUrl": "https://originstake.com",
+    "webUrl": "https://originstake.com",
+    "identity": "8708AC95F44038A2",
+    "securityContact": "hi@originstake.com",
+    "addresses": {
+      "story": "storyvaloper1ng7eglehz2uk0fdmsxceyzxahthn2vawv9kc0f"
+    }
+  }

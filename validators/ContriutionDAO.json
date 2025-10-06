@@ -1,0 +1,14 @@
+  {
+    "moniker": "ContributionDAO",
+    "details": "Secure Network with Institutional-Grade Solution",
+    "banner": "",
+    "avatar": "https://raw.githubusercontent.com/Contribution-DAO/contributiondao/refs/heads/main/brand-assets/cdao_logo_128x128.png",
+    "twitterUrl": "https://x.com/contributedao",
+    "githubUrl": "https://github.com/Contribution-DAO/",
+    "webUrl": "https://staking.contributiondao.com/",
+    "identity": "3034BD2560DD86B4",
+    "securityContact": "security@contributiondao.com",
+    "addresses": {
+      "story": "storyvaloper15xck3mx9grhgzr7mkym7svwpu9q0hk5sjy7sc7"
+    }
+  }

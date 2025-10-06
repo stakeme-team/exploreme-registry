@@ -1,0 +1,14 @@
+  {
+    "moniker": "Nethermind",
+    "details": "Building blocks for the decentralized future.",
+    "banner": "https://cdn.prod.website-files.com/63bcd69729ab7f3ec1ad210a/645e0c038e0d30107e69cd71_Hero_Verkle_trees.webp",
+    "avatar": "https://cdn.prod.website-files.com/63bcd69729ab7f3ec1ad210a/663108aa73a8b9bfcd3dc6ae_Nethermind_Icon_Bottom_Banner.svg",
+    "twitterUrl": "https://x.com/NethermindEth",
+    "githubUrl": "https://github.com/NethermindEth",
+    "webUrl": "https://www.nethermind.io/",
+    "identity": "",
+    "securityContact": "security@nethermind.io",
+    "addresses": {
+      "story": "storyvaloper1j43908k5u2qlulkn9sldnz2uw4n2732mfxf30z"
+    }
+  }

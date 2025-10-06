@@ -1,0 +1,14 @@
+  {
+    "moniker": "CroutonDigital",
+    "details": "Your everyday crypto partner",
+    "banner": "",
+    "avatar": "https://raw.githubusercontent.com/Crouton-Digital/Eigenlayer/aa2d7010ae657af3dfdff73d8be0dcd8c604670d/logo.png",
+    "twitterUrl": "https://x.com/CroutonDigital",
+    "githubUrl": "https://github.com/Crouton-Digital",
+    "webUrl": "https://crouton.digital",
+    "identity": "47B453B80ECFA342",
+    "securityContact": "official@crouton.digital",
+    "addresses": {
+      "story": "storyvaloper1s880dx29thulj0xgz89nlml4hyrx6mvfarula3"
+    }
+  }

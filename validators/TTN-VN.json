@@ -1,0 +1,14 @@
+  {
+    "moniker": "Story Hub (TTT VN)",
+    "details": "Vietnam's largest community validator, offering validation services, educational resources, and market penetration in the Vietnamese crypto market.",
+    "banner": "https://insights.tienthuattoan.com/assets/logo/TTT-COVER-TW.png",
+    "avatar": "https://insights.tienthuattoan.com/assets/logo/TTT-1024.png",
+    "twitterUrl": "https://x.com/story_hubs",
+    "githubUrl": "",
+    "webUrl": "https://tienthuattoan.com/",
+    "identity": "E46A1AC121BEAD77",
+    "securityContact": "hello@tienthuattoan.com",
+    "addresses": {
+      "story": "storyvaloper1tfhg0dqgc6r85v9kr92fr7c3nn9sltcl3s86j0"
+    }
+  }

@@ -1,0 +1,14 @@
+  {
+    "moniker": "NodeStake | For Locked",
+    "details": "NodeStake is the professional validator, infrastructure provider and IBC relayer. ⚛️7*24h Services | https://twitter.com/Nodestake_top",
+    "banner": "",
+    "avatar": "https://raw.githubusercontent.com/nodestake/testnet/refs/heads/main/Logo.png",
+    "twitterUrl": "https://x.com/NodeStake_top",
+    "githubUrl": "https://github.com/nodestake",
+    "webUrl": "https://nodestake.org",
+    "identity": "94EFE192B2C52424",
+    "securityContact": "info@nodestake.org",
+    "addresses": {
+      "story": "storyvaloper1p5q7n5e5a3vx2ply7tkstlyuqqcsytjqmr879z"
+    }
+  }
