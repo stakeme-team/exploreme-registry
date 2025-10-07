@@ -1,0 +1,14 @@
+  {
+    "moniker": "InfraSingularity",
+    "details": "InfraSingularity is a Institutional Staking & RPC Provider Platform",
+    "banner": "",
+    "avatar": "https://photos.wellfound.com/startups/i/9661966-2c82e71c49b161ecfa7a741185a664f0-medium_jpg.jpg",
+    "twitterUrl": "https://x.com/ISinfra",
+    "githubUrl": "",
+    "webUrl": "https://infrasingularity.com/",
+    "identity": "",
+    "securityContact": "tech@infrasingularity.com",
+    "addresses": {
+      "somnia-testnet": "0xe09a2f3f0c8ec53debc1894281e3121507731412"
+    }
+  }
