@@ -9,6 +9,10 @@
     "identity": "77158D6796D16CD0",
     "securityContact": "info@cumulo.pro",
     "addresses": {
-      "story": "storyvaloper13mdyx6lpu0euma7c6pcdk6mpca572c36nd9uly"
-    }
+      "story": "storyvaloper13mdyx6lpu0euma7c6pcdk6mpca572c36nd9uly",
+      "celestia": "celestiavaloper1cs37tvmahavw8xcnzcgyz342sh0al37ma4zqat"
+    },
+  "bridges": {
+    "celestia": "12D3KooWQJ9M7j4uRr9SDgguSWfE66LiSdF3JqfSwGFg3yLNz45T"
+  }
   }
