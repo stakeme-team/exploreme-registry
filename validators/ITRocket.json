@@ -1,0 +1,19 @@
+{
+  "moniker": "ITRocket",
+  "details": "Secure Staking & Interchain Services",
+  "banner": "https://server-4.itrocket.net/logo/itrocket_banner.jpg",
+  "avatar": "https://server-4.itrocket.net/logo/itrocket_logo.png",
+  "twitterUrl": "https://x.com/itrocket_team",
+  "githubUrl": "https://github.com/itrocket-am",
+  "webUrl": "https://itrocket.net/",
+  "identity": "D36EEB12E5B1B11A",
+  "securityContact": "ops@itrocket.net",
+  "addresses": {
+    "celestia": "celestiavaloper1gl0rg3g0pkcpr8umj2hvlhha06ecjd65yt96z5",
+    "story": "storyvaloper1747w7e5jzvw2vygktl0nykwpwp5fudaczvrdjw",
+    "somnia-testnet": "0xaf43e6f892ba3d9fe110f78568ecbf68250c840f"
+  },
+  "bridges": {
+    "celestia": "12D3KooWPhbsLRV7q2PFabXZaceS5GoUXufBujJvgBQu1XdJWrB3"
+  }
+}
