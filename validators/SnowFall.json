@@ -1,0 +1,16 @@
+  {
+    "moniker": "Snow Fall",
+    "details": "Sovereign and non-custodial validation by Snow-fall.io. Secure, independent, and always online.",
+    "banner": "https://github.com/Snow-fall-io/assets/blob/main/snowfall-banniere.png?raw=true",
+    "avatar": "https://github.com/Snow-fall-io/assets/blob/main/logo.png?raw=true",
+    "twitterUrl": "https://x.com/Snow_FalI",
+    "githubUrl": "https://github.com/Snow-fall-io",
+    "webUrl": "https://www.snow-fall.io/",
+    "identity": "AE7E53FAC7B1CD90",
+    "securityContact": "contact@snow-fall.io",
+    "addresses": {
+      "bouncebit": "ethmvaloper192gu3czvj3x6rp5fe6vl6vsaw95g86uqyp85lh",
+      "babylon": "bbnvaloper1uhwy40w2jg22m2yup4qepqa420x2tfz0hrgu9w",
+      "aura": "auravaloper1uhwy40w2jg22m2yup4qepqa420x2tfz0am46v3"
+    }
+  }
