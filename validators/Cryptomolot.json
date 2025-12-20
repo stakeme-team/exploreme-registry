@@ -1,0 +1,14 @@
+{
+  "moniker": "Cryptomolot",
+  "details": "Community-first Validator for Open Web",
+  "banner": "https://raw.githubusercontent.com/team-cryptomolot/metadata/refs/heads/main/cryptomolotbanner.png",
+  "avatar": "https://raw.githubusercontent.com/team-cryptomolot/metadata/refs/heads/main/logo.png",
+  "twitterUrl": "https://x.com/cryptomolot",
+  "githubUrl": "https://github.com/cryptomolot",
+  "webUrl": "https://cryptomolotstake.com/",
+  "identity": "",
+  "securityContact": "unlimitedmolotnorilsk@gmail.com",
+  "addresses": {
+    "story": "storyvaloper1e3t5kczr6fld375e2q0qnl63npyw30kft847cp"
+  }
+}
