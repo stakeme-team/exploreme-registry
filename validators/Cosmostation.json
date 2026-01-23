@@ -13,7 +13,7 @@
     "celestia": "celestiavaloper1uqj5ul7jtpskk9ste9mfv6jvh0y3w34vtpz3gw",
     "somnia": "0xa063e77c64667c9654ef8a3ee38c8cf0613e82b2",
     "somnia-testnet": "0xd9a8ec483041e18376e16b16590b42544bbc9160",
-    "pharos-testnet": "0x7463ec36737f468cb7bc5180ac719fc3b718c27aa9fd1b129a516a6c4ec8aada"
+    "pharos": "0x7463ec36737f468cb7bc5180ac719fc3b718c27aa9fd1b129a516a6c4ec8aada"
   },
   "bridges": {
     "celestia": "12D3KooWJgWcLLiNnYqLihKW1PFuPDBT1uWoFengKXrTxVyiUwca"
