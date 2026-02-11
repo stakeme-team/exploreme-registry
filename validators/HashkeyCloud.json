@@ -1,0 +1,14 @@
+{
+    "moniker": "Hashkey Cloud",
+    "details": "HashKey Cloud is a leading global Web3 infrastructure service provider, offering clients professional, stable, secure, and compliant services worldwide. As a core member of the HashKey Group, we are backed by the Asian market and have a global reach. Since 2018, we have focused on blockchain infrastructure technologies.",
+    "banner": "https://s3-api.stakeme.pro/prod-image/HashkeyCloud.jpg",
+    "avatar": null,
+    "twitterUrl": "https://twitter.com/HashKeyCloud",
+    "githubUrl": null,
+    "webUrl": "https://www.hashkey.cloud/",
+    "identity": null,
+    "securityContact": null,
+    "addresses": {
+      "pharos": "0xf1ebdbac9a48d21e3159caacc532f7fde52a98f39c3f6f4b6e213064b3673c92"
+    }
+  }

@@ -1,0 +1,14 @@
+{
+    "moniker": "Brightlystake",
+    "details": null,
+    "banner": "https://s3-api.stakeme.pro/prod-image/Brightlystake.jpg",
+    "avatar": null,
+    "twitterUrl": null,
+    "githubUrl": null,
+    "webUrl": null,
+    "identity": null,
+    "securityContact": null,
+    "addresses": {
+      "pharos": "0x3d888b9db1bc258e810b1f567348f5cc79f1770f5a3fedef5d63ef328fbd1b59"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "moniker": "1XP",
+    "details": null,
+    "banner": "https://s3-api.stakeme.pro/prod-image/1XP.jpg",
+    "avatar": "https://1xp.com/1xp_logo_white.svg",
+    "twitterUrl": null,
+    "githubUrl": null,
+    "webUrl": null,
+    "identity": null,
+    "securityContact": null,
+    "addresses": {
+      "pharos": "0xab816c802219c52b8786d2910959d967fed4774d7e280e5832aaceca218a346f"
+    }
+}

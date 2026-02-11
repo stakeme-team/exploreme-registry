@@ -1,0 +1,14 @@
+{
+    "moniker": "Nodes.Guru",
+    "details": "Fast, simple and secure blockchain solution to stake your crypto assets and earn yields. Stake with the best validator. High performance. Delivered.",
+    "banner": "https://s3-api.stakeme.pro/prod-image/Guru.jpg",
+    "avatar": "https://api.nodes.guru/nodesguru.png",
+    "twitterUrl": "https://twitter.com/NodesGuru",
+    "githubUrl": "https://github.com/nodesguru",
+    "webUrl": "https://nodes.guru/",
+    "identity": null,
+    "securityContact": "support@nodes.guru",
+    "addresses": {
+      "pharos": "0x46cbdf2746cfb0311550d1074d47e04c450444a2f8b2999888c255d3f1ef7dde"
+    }
+  }
