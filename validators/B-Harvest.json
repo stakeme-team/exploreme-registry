@@ -1,0 +1,14 @@
+{
+    "moniker": "B-Harvest",
+    "details": "Developing the future, validating today",
+    "banner": "https://pbs.twimg.com/profile_banners/1105293967841607680/1722582552",
+    "avatar": "https://ugc.production.linktr.ee/12213957-1a1f-49ae-a3bb-32fe5e5876b2_b-harvest.jpeg?io=true&size=avatar-v3_0",
+    "twitterUrl": "https://twitter.com/B__Harvest",
+    "githubUrl": "https://github.com/b-harvest",
+    "webUrl": "https://bharvest.io/",
+    "identity": null,
+    "securityContact": "contact@bharvest.io",
+    "addresses": {
+      "pharos": "0xf711b046c2ad410b5a54bc9cc062727123c95bf18a735c1b3132ab2b0e5ee923"
+    }
+  }
