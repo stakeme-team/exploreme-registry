@@ -1,0 +1,14 @@
+{
+    "moniker": "Tecnodes",
+    "details": null,
+    "banner": null,
+    "avatar": "https://s3-api.stakeme.pro/prod-image/Tecnodeslogo.jpg",
+    "twitterUrl": null,
+    "githubUrl": null,
+    "webUrl": null,
+    "identity": null,
+    "securityContact": null,
+    "addresses": {
+      "pharos": "0x8f549af4ccc9a80c333a1005e765c1bd5fa9329f9360aec92fdaa89fe89f4080"
+    }
+}

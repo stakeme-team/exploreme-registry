@@ -1,0 +1,14 @@
+{
+    "moniker": "HusoNode",
+    "details": null,
+    "banner": "https://s3-api.stakeme.pro/prod-image/HusoNode.jpg",
+    "avatar": "https://s3-api.stakeme.pro/prod-image/HusoNodeLogo.jpg",
+    "twitterUrl": null,
+    "githubUrl": null,
+    "webUrl": null,
+    "identity": null,
+    "securityContact": null,
+    "addresses": {
+      "pharos": "0xbd3cf42a85684e191fb3e7594f578249ea09672e609f922f8889e3b8f9743a88"
+    }
+}

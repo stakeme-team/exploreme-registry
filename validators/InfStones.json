@@ -1,0 +1,14 @@
+{
+    "moniker": "InfStones",
+    "details": null,
+    "banner": "https://s3-api.stakeme.pro/prod-image/InfStones.jpg",
+    "avatar": "https://s3-api.stakeme.pro/prod-image/InfStonesLogo.jpg",
+    "twitterUrl": null,
+    "githubUrl": null,
+    "webUrl": null,
+    "identity": null,
+    "securityContact": null,
+    "addresses": {
+      "pharos": "0x22bfe71d9a469171adecf64363ae6120e0611c8e44b606ca6b7cc78858b2112b"
+    }
+}

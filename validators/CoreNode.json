@@ -1,0 +1,14 @@
+{
+    "moniker": "CoreNode",
+    "details": null,
+    "banner": "https://s3-api.stakeme.pro/prod-image/CoreNode.jpg",
+    "avatar": "https://s3-api.stakeme.pro/prod-image/CoreNodeLogo.jpg",
+    "twitterUrl": null,
+    "githubUrl": null,
+    "webUrl": null,
+    "identity": null,
+    "securityContact": null,
+    "addresses": {
+      "pharos": "0xa127f74e8e3fdb1416ffc367260af0cfc91e036b0220755d04e5c1ab9fcfa59b"
+    }
+}

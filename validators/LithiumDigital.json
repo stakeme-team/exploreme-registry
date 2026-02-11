@@ -1,0 +1,14 @@
+{
+    "moniker": "LithiumDigital",
+    "details": null,
+    "banner": "https://s3-api.stakeme.pro/prod-image/LithiumDigital.jpg",
+    "avatar": "https://s3-api.stakeme.pro/prod-image/LithiumDigitalLogo.jpg",
+    "twitterUrl": null,
+    "githubUrl": null,
+    "webUrl": null,
+    "identity": null,
+    "securityContact": null,
+    "addresses": {
+      "pharos": "0xcb53ed1a724726c0682b315f71bf287219efd334ee28f31777ab4e244421bfd5"
+    }
+}

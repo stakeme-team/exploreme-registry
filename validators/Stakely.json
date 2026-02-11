@@ -1,0 +1,14 @@
+{
+    "moniker": "Stakely",
+    "details": null,
+    "banner": "https://s3-api.stakeme.pro/prod-image/Stakely.jpg",
+    "avatar": "https://s3-api.stakeme.pro/prod-image/StakelyLogo.jpg",
+    "twitterUrl": null,
+    "githubUrl": null,
+    "webUrl": null,
+    "identity": null,
+    "securityContact": null,
+    "addresses": {
+      "pharos": "0xf3593dacfc35c667d1edee71b516f31332d018d50e7a00e393fbde5f28387053"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "moniker": "Zellic",
+    "details": null,
+    "banner": "https://s3-api.stakeme.pro/prod-image/Zellic.jpg",
+    "avatar": "https://s3-api.stakeme.pro/prod-image/ZellicLogo.jpg",
+    "twitterUrl": null,
+    "githubUrl": null,
+    "webUrl": null,
+    "identity": null,
+    "securityContact": null,
+    "addresses": {
+      "pharos": "0x82a909422dd9a684058178417439406abf00fca0cfbc5c442df7afc4492e6f6a"
+    }
+}

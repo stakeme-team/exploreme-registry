@@ -1,0 +1,14 @@
+{
+    "moniker": "LECCA",
+    "details": null,
+    "banner": "https://s3-api.stakeme.pro/prod-image/LECCA.jpg",
+    "avatar": "https://s3-api.stakeme.pro/prod-image/LECCALogo.jpg",
+    "twitterUrl": null,
+    "githubUrl": null,
+    "webUrl": null,
+    "identity": null,
+    "securityContact": null,
+    "addresses": {
+      "pharos": "0x7343580680a6c6ab6f408704266e9b118fc845f22de28a5ec5a0c410309e5dac"
+    }
+}

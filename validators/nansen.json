@@ -1,0 +1,14 @@
+{
+    "moniker": "Nansen",
+    "details": null,
+    "banner": null,
+    "avatar": "https://s3-api.stakeme.pro/prod-image/NansenLogo.jpg",
+    "twitterUrl": null,
+    "githubUrl": null,
+    "webUrl": null,
+    "identity": null,
+    "securityContact": null,
+    "addresses": {
+      "pharos": "0x3f77056d6694a328092e10939abd1daa05c4d2f200d47780b424163f5aa30fe4"
+    }
+}

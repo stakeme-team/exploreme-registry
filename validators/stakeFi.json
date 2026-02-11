@@ -1,0 +1,14 @@
+{
+    "moniker": "StakeFi",
+    "details": null,
+    "banner": "https://s3-api.stakeme.pro/prod-image/stakeFi.jpg",
+    "avatar": "https://s3-api.stakeme.pro/prod-image/stakefi-logo.jpg",
+    "twitterUrl": null,
+    "githubUrl": null,
+    "webUrl": null,
+    "identity": null,
+    "securityContact": null,
+    "addresses": {
+      "pharos": "0xe018242842d0ce6ae364135873ef04b0254ab38386fc92c73a506d1fc7b4c0af"
+    }
+}

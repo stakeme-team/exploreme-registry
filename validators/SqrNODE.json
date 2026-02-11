@@ -1,0 +1,14 @@
+{
+    "moniker": "SqrNODE",
+    "details": null,
+    "banner": "https://s3-api.stakeme.pro/prod-image/SqrNODE.jpg",
+    "avatar": "https://s3-api.stakeme.pro/prod-image/SqrNODELogo.jpg",
+    "twitterUrl": null,
+    "githubUrl": null,
+    "webUrl": null,
+    "identity": null,
+    "securityContact": null,
+    "addresses": {
+      "pharos": "0x4cd3f17780c494458106706b9115d503bf838cb4fa531bdce8cfbb4d14ef7cab"
+    }
+}

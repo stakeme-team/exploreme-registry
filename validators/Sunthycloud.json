@@ -1,0 +1,14 @@
+{
+    "moniker": "Sunthycloud",
+    "details": null,
+    "banner": null,
+    "avatar": "https://s3-api.stakeme.pro/prod-image/SunthycloudLogo.jpg",
+    "twitterUrl": null,
+    "githubUrl": null,
+    "webUrl": null,
+    "identity": null,
+    "securityContact": null,
+    "addresses": {
+      "pharos": "0x316a6a5e4d0a248a2d05461359f130dcb893b20d9e3702cfe3274b018b7b167b"
+    }
+}
