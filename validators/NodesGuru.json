@@ -1,14 +1,15 @@
 {
-    "moniker": "Nodes.Guru",
-    "details": "Fast, simple and secure blockchain solution to stake your crypto assets and earn yields. Stake with the best validator. High performance. Delivered.",
-    "banner": "https://s3-api.stakeme.pro/prod-image/Guru.jpg",
-    "avatar": "https://s3-api.stakeme.pro/prod-image/Nodes.GuruLogo.png",
-    "twitterUrl": "https://twitter.com/NodesGuru",
-    "githubUrl": "https://github.com/nodesguru",
-    "webUrl": "https://nodes.guru/",
-    "identity": null,
-    "securityContact": "support@nodes.guru",
-    "addresses": {
-      "pharos": "0x46cbdf2746cfb0311550d1074d47e04c450444a2f8b2999888c255d3f1ef7dde"
-    }
+  "moniker": "Nodes.Guru",
+  "details": "Guru of non-custodial staking. Professional node running, low fees, best uptime and 24/7 customer support.",
+  "banner": "https://cdn.stakeme.pro/prod-image/sei-validators/NodesGuru-banner.jpg",
+  "avatar": "https://s3.amazonaws.com/keybase_processed_uploads/25738b36b7972b94112bc8dc0df13b05_360_360.jpg",
+  "twitterUrl": "https://twitter.com/NodesGuru",
+  "githubUrl": "https://github.com/nodesguru",
+  "webUrl": "http://nodes.guru",
+  "identity": "28B672FCE6BBD562",
+  "securityContact": "security@nodes.guru",
+  "addresses": {
+    "pharos": "0x46cbdf2746cfb0311550d1074d47e04c450444a2f8b2999888c255d3f1ef7dde",
+    "sei": "seivaloper1d50kgydm02xg9kpafa8e3jwz83c0uvagkx9m5n"
   }
+}

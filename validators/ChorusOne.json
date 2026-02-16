@@ -1,14 +1,15 @@
-  {
-    "moniker": "Chorus One",
-    "details": "Secure $IP and shape its future by delegating to Chorus One, a highly secure and stable validator. By delegating, you agree to the terms of service at: https://chorus.one/tos",
-    "banner": "https://raw.githubusercontent.com/ChorusOne/marketing-assets/main/storyscan_app/C1-cover-1446x280.png",
-    "avatar": "https://raw.githubusercontent.com/ChorusOne/marketing-assets/main/storyscan_app/C1-profile-360x360-light.png",
-    "twitterUrl": "https://x.com/chorusone",
-    "githubUrl": "https://github.com/ChorusOne",
-    "webUrl": "https://chorus.one",
-    "identity": "F5D27A70AAA55AD9",
-    "securityContact": "support@chorus.one",
-    "addresses": {
-      "story": "storyvaloper10p068s6huwtcc5sp60wdq72u2cngwsj7hfx7eu"
-    }
+{
+  "moniker": "Chorus One",
+  "details": "Secure Sei and shape its future by delegating to Chorus One, a highly secure and stable validator. By delegating, you agree to the terms of service at: https://chorus.one/tos",
+  "banner": "https://cdn.stakeme.pro/prod-image/sei-validators/Chorus%20One-banner.jpg",
+  "avatar": "",
+  "twitterUrl": "",
+  "githubUrl": "",
+  "webUrl": "https://chorus.one",
+  "identity": "00B79D689B7DC1CE",
+  "securityContact": "security@chorus.one",
+  "addresses": {
+    "sei": "seivaloper16pj5gljqnqs0ajxakccfjhu05yczp98743ctgy",
+    "story": "storyvaloper10p068s6huwtcc5sp60wdq72u2cngwsj7hfx7eu"
   }
+}

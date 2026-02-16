@@ -1,0 +1,14 @@
+{
+  "moniker": "P2P.org 💙",
+  "details": "P2P.org - a leading institutional staking provider. Stake with us for a secure, reliable and simple service.",
+  "banner": "https://cdn.stakeme.pro/prod-image/sei-validators/P2P-banner.jpg",
+  "avatar": "https://s3.amazonaws.com/keybase_processed_uploads/ba8cc9d0510e9d56164c704a0a48de05_360_360.jpg",
+  "twitterUrl": "",
+  "githubUrl": "",
+  "webUrl": "http://p2p.org",
+  "identity": "CB5C07F7D6458403",
+  "securityContact": "cosmos-security@p2p.org",
+  "addresses": {
+    "sei": "seivaloper1qmpxlswwk42wya67t7zsaawf3vur03cuevss0h"
+  }
+}

@@ -1,14 +1,15 @@
-  {
-    "moniker": "Everstake",
-    "details": "Everstake is the №1 staking infrastructure platform, trusted by retail and institutional clients worldwide. Committed to the highest standards of compliance, we deliver secure staking solutions across 85+ chains with a reliability rate of 99.98%.",
-    "banner": "",
-    "avatar": "https://everstake.one/logo.png",
-    "twitterUrl": "",
-    "githubUrl": "",
-    "webUrl": "",
-    "identity": "EF5AC70C00BECEDC",
-    "securityContact": "",
-    "addresses": {
-      "story": "storyvaloper1u4clv9m2r0yrpwalzj0jzquv5y4ur44vcyr56h"
-    }
+{
+  "moniker": "Everstake",
+  "details": "Everstake is the №1 staking infrastructure platform, trusted by retail and institutional clients worldwide.",
+  "banner": "https://cdn.stakeme.pro/prod-image/sei-validators/everstake-banner.jpg",
+  "avatar": "https://s3.amazonaws.com/keybase_processed_uploads/fa01e6109b3fd4579c4bdd445d75ad05_360_360.jpg",
+  "twitterUrl": "",
+  "githubUrl": "https://github.com/everstake",
+  "webUrl": "http://everstake.one",
+  "identity": "EF5AC70C00BECEDC",
+  "securityContact": "",
+  "addresses": {
+    "sei": "seivaloper1ummny4p645xraxc4m7nphf7vxawfzt3p5hn47t",
+    "story": "storyvaloper1u4clv9m2r0yrpwalzj0jzquv5y4ur44vcyr56h"
   }
+}

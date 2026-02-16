@@ -1,0 +1,14 @@
+{
+  "moniker": "kingnodes 👑",
+  "details": "Professional PoS validator securing only the best interchain networks. Join our community of delegators Telegram: https://t.me/kingnodes Twitter: https://twitter.com/kingnodes",
+  "banner": "https://cdn.stakeme.pro/prod-image/sei-validators/kingnodes-banner.jpg",
+  "avatar": "https://s3.amazonaws.com/keybase_processed_uploads/c9fbb1676edede4bf0b3c787aefaa205_360_360.jpg",
+  "twitterUrl": "https://twitter.com/kingnodes",
+  "githubUrl": "https://github.com/nullmames",
+  "webUrl": "https://kingnodes.com",
+  "identity": "30E6CD38D9721222",
+  "securityContact": "security@kingnodes.com",
+  "addresses": {
+    "sei": "seivaloper1wwfpmcvehq6yqdxfccs5rdr745q3kmy06l9d0d"
+  }
+}

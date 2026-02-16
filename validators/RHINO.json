@@ -1,0 +1,14 @@
+{
+  "moniker": "RHINO 🦏",
+  "details": "Blockchain infrastructure at institutional standards. Multi-region reliability, enterprise SLAs, and slash protection insurance. We support teams building on Sei. Read more at https://sei-apis.com",
+  "banner": "https://cdn.stakeme.pro/prod-image/sei-validators/rhino-banner.jpg",
+  "avatar": "https://s3.amazonaws.com/keybase_processed_uploads/6a7119f333b8080611ebb85a1476a705_360_360.jpg",
+  "twitterUrl": "https://twitter.com/rhinostake",
+  "githubUrl": "",
+  "webUrl": "http://rhinostake.com",
+  "identity": "59C635D1CD02FEEC",
+  "securityContact": "support@rhinostake.com",
+  "addresses": {
+    "sei": "seivaloper146m089lq8mkqw6w0mmlhxz6247g2taha89at74"
+  }
+}

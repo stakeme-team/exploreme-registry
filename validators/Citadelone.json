@@ -1,0 +1,14 @@
+{
+  "moniker": "Citadel.one",
+  "details": "Citadel.one is a multi-asset non-custodial staking platform that lets anyone become a part of decentralized infrastructure and earn passive income. Stake with our nodes or any other validator across multiple networks in a few clicks",
+  "banner": "https://cdn.stakeme.pro/prod-image/sei-validators/Citadelone-banner.jpg",
+  "avatar": "https://s3.amazonaws.com/keybase_processed_uploads/2826e38259411adafb416505fb948c05_360_360.jpg",
+  "twitterUrl": "",
+  "githubUrl": "",
+  "webUrl": "https://citadel.one",
+  "identity": "EBB03EB4BB4CFCA7",
+  "securityContact": "nikita@citadel.one",
+  "addresses": {
+    "sei": "seivaloper1spg334qdsxtmlzqn9vsh566477wd0hr56cjspj"
+  }
+}

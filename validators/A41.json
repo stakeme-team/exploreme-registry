@@ -1,0 +1,14 @@
+{
+  "moniker": "A41",
+  "details": "A41 is a blockchain infrastructure company. We provide staking service on multichain. Stake your token with us now and earn rewards!",
+  "banner": "https://cdn.stakeme.pro/prod-image/sei-validators/A41-banner.jpg",
+  "avatar": "https://s3.amazonaws.com/keybase_processed_uploads/6ce975769ea83f06d62c8e0b825bea05_360_360.jpg",
+  "twitterUrl": "",
+  "githubUrl": "",
+  "webUrl": "https://a41.io/",
+  "identity": "87D9921253A2A9EB",
+  "securityContact": "dev@a41.io",
+  "addresses": {
+    "sei": "seivaloper18tpdet22kpvswxayekwn55ry0r5acx4kaauupk"
+  }
+}

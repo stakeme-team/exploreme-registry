@@ -1,19 +1,19 @@
 {
   "moniker": "Cosmostation",
-  "details": "Cosmostation is an institutional-grade cryptocurrency infrastructure provider, managing billions of dollars across 70 protocols. Since 2018, we have served more than 500k users globally, providing products that enable protocols to scale.",
-  "banner": "https://raw.githubusercontent.com/cosmostation/chainlist/main/resource/cosmostation/cosmostation_banner.png",
-  "avatar": "https://raw.githubusercontent.com/cosmostation/chainlist/main/resource/cosmostation/cosmostation_black_bg(512x512).png",
+  "details": "Cosmostation validator node. Delegate your tokens and Start Earning Staking Rewards",
+  "banner": "https://cdn.stakeme.pro/prod-image/sei-validators/Cosmostation-banner.png",
+  "avatar": "https://s3.amazonaws.com/keybase_processed_uploads/909034c1d36c1d1f3e9191f668007805_360_360.jpeg",
   "twitterUrl": "https://x.com/CosmostationVD",
   "githubUrl": "https://github.com/cosmostation",
   "webUrl": "https://www.cosmostation.io",
   "identity": "AE4C403A6E7AA1AC",
-  "securityContact": "node@stamper.network",
+  "securityContact": "admin@stamper.network",
   "addresses": {
-    "sei": "seivaloper1hnkkqnzwmyw652muh6wfea7xlfgplnyj0ku4w4",
     "celestia": "celestiavaloper1uqj5ul7jtpskk9ste9mfv6jvh0y3w34vtpz3gw",
+    "pharos": "0x899f4d2ccc9c755e07382f7adc9b5b9d82c97c4ed9159523c80dcb7c0a5763f1",
+    "sei": "seivaloper1hnkkqnzwmyw652muh6wfea7xlfgplnyj0ku4w4",
     "somnia": "0xa063e77c64667c9654ef8a3ee38c8cf0613e82b2",
-    "somnia-testnet": "0xd9a8ec483041e18376e16b16590b42544bbc9160",
-    "pharos": "0x899f4d2ccc9c755e07382f7adc9b5b9d82c97c4ed9159523c80dcb7c0a5763f1"
+    "somnia-testnet": "0xd9a8ec483041e18376e16b16590b42544bbc9160"
   },
   "bridges": {
     "celestia": "12D3KooWJgWcLLiNnYqLihKW1PFuPDBT1uWoFengKXrTxVyiUwca"

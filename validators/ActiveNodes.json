@@ -1,0 +1,14 @@
+{
+  "moniker": "Active Nodes",
+  "details": "We Skyrocket your Stake! Highly Available Enterprise Infrastructure with multiple nodes around the world",
+  "banner": "https://cdn.stakeme.pro/prod-image/sei-validators/ActiveNodes-banner.jpg",
+  "avatar": "https://s3.amazonaws.com/keybase_processed_uploads/fee9b2d6de139c06ca94d6c59f055c05_360_360.jpg",
+  "twitterUrl": "https://twitter.com/activenodes_io",
+  "githubUrl": "https://github.com/activenodes",
+  "webUrl": "http://activenodes.io",
+  "identity": "A2EA7DE76AD57E1A",
+  "securityContact": "",
+  "addresses": {
+    "sei": "seivaloper17ga9jha45gu0x04yrmfpjpksmqe48wupzk5jex"
+  }
+}

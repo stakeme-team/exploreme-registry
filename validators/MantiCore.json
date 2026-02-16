@@ -1,0 +1,14 @@
+{
+  "moniker": "MantiCore",
+  "details": "",
+  "banner": "https://cdn.stakeme.pro/prod-image/sei-validators/manticore-banner.jpg",
+  "avatar": "https://s3.amazonaws.com/keybase_processed_uploads/3f032a74a49c38b9382090fb16b1f605_360_360.jpg",
+  "twitterUrl": "https://twitter.com/manticorenodes",
+  "githubUrl": "https://github.com/manticoregit",
+  "webUrl": "https://manticore.team",
+  "identity": "D5CFA114A1EE1CC7",
+  "securityContact": "contact@manticore.team",
+  "addresses": {
+    "sei": "seivaloper1garz4kjfgar8dwypayufca2mujgtfxlv6kte03"
+  }
+}

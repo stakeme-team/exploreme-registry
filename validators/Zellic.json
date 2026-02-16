@@ -1,14 +1,15 @@
 {
-    "moniker": "Zellic",
-    "details": null,
-    "banner": "https://s3-api.stakeme.pro/prod-image/Zellic.jpg",
-    "avatar": "https://s3-api.stakeme.pro/prod-image/ZellicLogo.jpg",
-    "twitterUrl": null,
-    "githubUrl": null,
-    "webUrl": null,
-    "identity": null,
-    "securityContact": null,
-    "addresses": {
-      "pharos": "0x82a909422dd9a684058178417439406abf00fca0cfbc5c442df7afc4492e6f6a"
-    }
+  "moniker": "Zellic",
+  "details": "The go-to blockchain security firm for top teams, specializing in Cosmos, EVM, ZK, Move (Aptos and Sui). We solve your hardest security problems. Twitter: https://twitter.com/zellic_io Telegram: t.me/zellic_io",
+  "banner": "https://cdn.stakeme.pro/prod-image/sei-validators/Zellic-banner.jpg",
+  "avatar": "https://s3.amazonaws.com/keybase_processed_uploads/e44f2a2b53ef64e2e2e9306c3372f105_360_360.jpg",
+  "twitterUrl": "",
+  "githubUrl": "",
+  "webUrl": "http://zellic.io",
+  "identity": "609C091636D1330B",
+  "securityContact": "security@zellic.io",
+  "addresses": {
+    "pharos": "0x82a909422dd9a684058178417439406abf00fca0cfbc5c442df7afc4492e6f6a",
+    "sei": "seivaloper10c6rrz55ukkaf7rjeerhpxwpqel4tllzs8vgfq"
+  }
 }

@@ -1,14 +1,15 @@
-  {
-    "moniker": "StakingCabin",
-    "details": "We offer enterprise-level, highly secure infrastructure services for public blockchain protocols.",
-    "banner": "",
-    "avatar": "",
-    "twitterUrl": "",
-    "githubUrl": "",
-    "webUrl": "",
-    "identity": "C0522DF992B0C407",
-    "securityContact": "",
-    "addresses": {
-      "story": "storyvaloper16fz650gz90c8nwhxkd9e756jcr2vfvddrgze0l"
-    }
+{
+  "moniker": "StakingCabin",
+  "details": "StakingCabin",
+  "banner": "https://cdn.stakeme.pro/prod-image/sei-validators/StakingCabin-banner.jpg",
+  "avatar": "https://s3.amazonaws.com/keybase_processed_uploads/8640a01e358b50a04de28f41f4707f05_360_360.jpg",
+  "twitterUrl": "",
+  "githubUrl": "",
+  "webUrl": "https://stakingcabin.com",
+  "identity": "C0522DF992B0C407",
+  "securityContact": "richard@stakingcabin.com",
+  "addresses": {
+    "sei": "seivaloper1xh2gf9gyvumlgpr9ws5n425vhntv9rysw9gr4q",
+    "story": "storyvaloper16fz650gz90c8nwhxkd9e756jcr2vfvddrgze0l"
   }
+}

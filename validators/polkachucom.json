@@ -1,0 +1,14 @@
+{
+  "moniker": "polkachu.com",
+  "details": "Polkachu is the trusted staking service provider for blockchain projects. 100% refund for downtime slash. Contact us at hello@polkachu.com",
+  "banner": "https://cdn.stakeme.pro/prod-image/sei-validators/polkachu-banner.jpg",
+  "avatar": "https://s3.amazonaws.com/keybase_processed_uploads/d56ce0bdda17f73d4aa895d1626e2505_360_360.jpg",
+  "twitterUrl": "",
+  "githubUrl": "",
+  "webUrl": "https://polkachu.com",
+  "identity": "0A6AF02D1557E5B4",
+  "securityContact": "hello@polkachu.com",
+  "addresses": {
+    "sei": "seivaloper1mpe9rdk7ycujge7r9ncjt4ekamgrdcygvzwqe8"
+  }
+}

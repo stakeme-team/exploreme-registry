@@ -1,0 +1,14 @@
+{
+  "moniker": "Coinage x DAIC",
+  "details": "The official validator node from Coinage (Coinage.Media) run by DAIC (https://daic.capital/telegram)",
+  "banner": "https://cdn.stakeme.pro/prod-image/sei-validators/Coinage-banner.jpg",
+  "avatar": "https://s3.amazonaws.com/keybase_processed_uploads/b021c784540456ab71d0694c6b985d05_360_360.jpg",
+  "twitterUrl": "",
+  "githubUrl": "",
+  "webUrl": "https://daic.capital",
+  "identity": "C92C6965D89F07A3",
+  "securityContact": "office@daic.capital",
+  "addresses": {
+    "sei": "seivaloper1ykls6dhh2mjqk9x0d3ee29873stf7wwvedcjmh"
+  }
+}
