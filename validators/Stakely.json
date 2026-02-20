@@ -1,13 +1,13 @@
 {
     "moniker": "Stakely",
-    "details": null,
+    "details": "Stakely is a blockchain infrastructure and institutional staking provider operating validator nodes for Proof-of-Stake networks worldwide. The company delivers reliable staking and infrastructure services for a broad range of blockchain networks, supporting protocols, institutions, and users globally. Stakely also contributes to the ecosystem through open-source tooling, developer resources, and educational content that helps accelerate blockchain adoption.",
     "banner": "https://s3-api.stakeme.pro/prod-image/Stakely.jpg",
     "avatar": "https://s3-api.stakeme.pro/prod-image/StakelyLogo.jpg",
-    "twitterUrl": null,
-    "githubUrl": null,
-    "webUrl": null,
-    "identity": null,
-    "securityContact": null,
+    "twitterUrl": "https://x.com/Stakely_io",
+    "githubUrl": "https://github.com/stakely",
+    "webUrl": "https://stakely.io",
+    "identity": "55A5F88B4ED52D3E",
+    "securityContact": "admin@stakely.io",
     "addresses": {
       "pharos": "0xf3593dacfc35c667d1edee71b516f31332d018d50e7a00e393fbde5f28387053"
     }
