@@ -1,0 +1,14 @@
+{
+  "moniker": "Helios Stake",
+  "details": "Helios is a Cosmos-based provider of blockchain software and infrastructure, operating secure validators, building blockchain tools, and delivering reliable services for developers, projects, and investors.",
+  "banner": "",
+  "avatar": "https://raw.githubusercontent.com/helios-stake/brand-kit/ae2205442daf2f0208213e8e01f0ab93055cbdf1/logo/helios.png",
+  "twitterUrl": "https://x.com/helios_stake",
+  "githubUrl": "https://github.com/helios-stake",
+  "webUrl": "https://helios-stake.org",
+  "identity": "396271A79CC73408",
+  "securityContact": "contact@helios-stake.org",
+  "addresses": {
+    "pharos": "0x8f7e5039b12f670df0c28dc6946fe241f5dd894722329375a59f80d48b0f0b02"
+  }
+}
