@@ -17,8 +17,5 @@
     "0g": "0xc9c5C28De357B3888d95B7ef1E8E8DC6556A5f3b",
     "monad": "0x03771aba71c08a270981d70851bfeb27bf0e42e93f331cc1011d32ca47118acc78",
     "pharos": "0x1c2b9d7b920a10ac8c1a6c36b7cab5e44eff55bf6ab02efb6dd2aa40e4ea806e"
-  },
-  "bridges": {
-    "celestia": "12D3KooWG4hgLXjo6agYdbtQEYuZnNy9ttAnLtNJzsCLVj3kPH4v"
   }
 }
