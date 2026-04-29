@@ -1,14 +1,15 @@
 {
-    "moniker": "Tecnodes",
-    "details": null,
-    "banner": null,
-    "avatar": "https://s3-api.stakeme.pro/prod-image/Tecnodeslogo.jpg",
-    "twitterUrl": null,
-    "githubUrl": null,
-    "webUrl": null,
-    "identity": null,
-    "securityContact": null,
-    "addresses": {
-      "pharos": "0x8f549af4ccc9a80c333a1005e765c1bd5fa9329f9360aec92fdaa89fe89f4080"
-    }
+  "moniker": "Tecnodes",
+  "details": null,
+  "banner": null,
+  "avatar": "https://s3-api.stakeme.pro/prod-image/Tecnodeslogo.jpg",
+  "twitterUrl": null,
+  "githubUrl": null,
+  "webUrl": null,
+  "identity": null,
+  "securityContact": null,
+  "addresses": {
+    "pharos-testnet": "0x8f549af4ccc9a80c333a1005e765c1bd5fa9329f9360aec92fdaa89fe89f4080",
+    "pharos": "0xc66aaf2454074d6713c3232eb71a6ec39b8a57b016b9baa5ba2318b84a86bb19"
+  }
 }

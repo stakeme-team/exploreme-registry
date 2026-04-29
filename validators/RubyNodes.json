@@ -1,14 +1,15 @@
 {
-    "moniker": "RubyNodes",
-    "details": null,
-    "banner": "https://s3-api.stakeme.pro/prod-image/RubyNodes.jpg",
-    "avatar": "https://s3-api.stakeme.pro/prod-image/RubyNodesLogo.jpg",
-    "twitterUrl": null,
-    "githubUrl": null,
-    "webUrl": null,
-    "identity": null,
-    "securityContact": null,
-    "addresses": {
-      "pharos": "0x5163d5bffd64ba4142251d96b58d3ef3c3d5dffc737a889be45da727a95dac35"
-    }
+  "moniker": "RubyNodes",
+  "details": null,
+  "banner": "https://s3-api.stakeme.pro/prod-image/RubyNodes.jpg",
+  "avatar": "https://s3-api.stakeme.pro/prod-image/RubyNodesLogo.jpg",
+  "twitterUrl": null,
+  "githubUrl": null,
+  "webUrl": null,
+  "identity": null,
+  "securityContact": null,
+  "addresses": {
+    "pharos-testnet": "0x5163d5bffd64ba4142251d96b58d3ef3c3d5dffc737a889be45da727a95dac35",
+    "pharos": "0x7e28c44763c2039f3f68705571bb751748ca7eadeba38d43c08b87501bc29ca9"
+  }
 }

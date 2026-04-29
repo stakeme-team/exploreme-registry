@@ -1,14 +1,15 @@
 {
-    "moniker": "Brightlystake",
-    "details": null,
-    "banner": "https://s3-api.stakeme.pro/prod-image/Brightlystake.jpg",
-    "avatar": "https://s3-api.stakeme.pro/prod-image/BrightlystakeLogo.jpg",
-    "twitterUrl": null,
-    "githubUrl": null,
-    "webUrl": null,
-    "identity": null,
-    "securityContact": null,
-    "addresses": {
-      "pharos": "0x3d888b9db1bc258e810b1f567348f5cc79f1770f5a3fedef5d63ef328fbd1b59"
-    }
+  "moniker": "Brightlystake",
+  "details": null,
+  "banner": "https://s3-api.stakeme.pro/prod-image/Brightlystake.jpg",
+  "avatar": "https://s3-api.stakeme.pro/prod-image/BrightlystakeLogo.jpg",
+  "twitterUrl": null,
+  "githubUrl": null,
+  "webUrl": null,
+  "identity": null,
+  "securityContact": null,
+  "addresses": {
+    "pharos-testnet": "0x3d888b9db1bc258e810b1f567348f5cc79f1770f5a3fedef5d63ef328fbd1b59",
+    "pharos": "0x57bcfd71d0d84889ed25f56d478987865952f638fe7055553c0d8058d75a1c6c"
+  }
 }

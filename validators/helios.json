@@ -9,6 +9,7 @@
   "identity": "396271A79CC73408",
   "securityContact": "contact@helios-stake.org",
   "addresses": {
-    "pharos": "0x8f7e5039b12f670df0c28dc6946fe241f5dd894722329375a59f80d48b0f0b02"
+    "pharos-testnet": "0x8f7e5039b12f670df0c28dc6946fe241f5dd894722329375a59f80d48b0f0b02",
+    "pharos": "0x457c892f0977105cd2dc90bebecda39a9fc3a0f3093f73d05cce2723e4aaef14"
   }
 }

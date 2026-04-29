@@ -9,7 +9,8 @@
   "identity": "28B672FCE6BBD562",
   "securityContact": "security@nodes.guru",
   "addresses": {
-    "pharos": "0x46cbdf2746cfb0311550d1074d47e04c450444a2f8b2999888c255d3f1ef7dde",
+    "pharos-testnet": "0x46cbdf2746cfb0311550d1074d47e04c450444a2f8b2999888c255d3f1ef7dde",
+    "pharos": "0x2ecc601b360e6e14a6c683a24b6fba19d5b27f959b5b2be4eb768487e6bf2c18",
     "sei": "seivaloper1d50kgydm02xg9kpafa8e3jwz83c0uvagkx9m5n"
   }
 }

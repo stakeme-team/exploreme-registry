@@ -1,14 +1,15 @@
 {
-    "moniker": "HusoNode",
-    "details": null,
-    "banner": "https://s3-api.stakeme.pro/prod-image/HusoNode.jpg",
-    "avatar": "https://s3-api.stakeme.pro/prod-image/HusoNodeLogo.jpg",
-    "twitterUrl": null,
-    "githubUrl": null,
-    "webUrl": null,
-    "identity": null,
-    "securityContact": null,
-    "addresses": {
-      "pharos": "0xbd3cf42a85684e191fb3e7594f578249ea09672e609f922f8889e3b8f9743a88"
-    }
+  "moniker": "HusoNode",
+  "details": null,
+  "banner": "https://s3-api.stakeme.pro/prod-image/HusoNode.jpg",
+  "avatar": "https://s3-api.stakeme.pro/prod-image/HusoNodeLogo.jpg",
+  "twitterUrl": null,
+  "githubUrl": null,
+  "webUrl": null,
+  "identity": null,
+  "securityContact": null,
+  "addresses": {
+    "pharos-testnet": "0xbd3cf42a85684e191fb3e7594f578249ea09672e609f922f8889e3b8f9743a88",
+    "pharos": "0x708de78b835313b94d4298141cb0609b16fc7b06b3fe15646caaaf14c06ad7b2"
+  }
 }

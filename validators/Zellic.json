@@ -9,7 +9,7 @@
   "identity": "609C091636D1330B",
   "securityContact": "security@zellic.io",
   "addresses": {
-    "pharos": "0x82a909422dd9a684058178417439406abf00fca0cfbc5c442df7afc4492e6f6a",
+    "pharos-testnet": "0x82a909422dd9a684058178417439406abf00fca0cfbc5c442df7afc4492e6f6a",
     "sei": "seivaloper10c6rrz55ukkaf7rjeerhpxwpqel4tllzs8vgfq"
   }
 }
