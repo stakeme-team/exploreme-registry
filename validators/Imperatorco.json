@@ -9,6 +9,7 @@
   "identity": "0878BA6BE556C132",
   "securityContact": "contact@imperator.co",
   "addresses": {
-    "sei": "seivaloper1t9fq3qfm7ngau5gr8qgf5dpfzjqg79kf65cu04"
+    "sei": "seivaloper1t9fq3qfm7ngau5gr8qgf5dpfzjqg79kf65cu04",
+    "somnia": "0x1bd5d4ebeea9ab77055bbf00ffb49d85d513778d"
   }
 }
