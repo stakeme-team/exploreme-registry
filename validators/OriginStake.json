@@ -11,6 +11,7 @@
   "addresses": {
     "story": "storyvaloper1ng7eglehz2uk0fdmsxceyzxahthn2vawv9kc0f",
     "pharos-testnet": "0xfe3cc480e626d0fe937064f6310a65d215ace9fb731282665c66f3b36ceebe41",
-    "pharos": "0xe589cca8fe32d13fcd7c7b6c0d2f19ea16fe4c0551d2f89e9e6c3f1b7bf14047"
+    "pharos": "0xe589cca8fe32d13fcd7c7b6c0d2f19ea16fe4c0551d2f89e9e6c3f1b7bf14047",
+    "0g": "0x4309a98a22c9afaa758140b6002014120c1aa1d7"
   }
 }

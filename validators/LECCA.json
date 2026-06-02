@@ -10,6 +10,7 @@
   "securityContact": null,
   "addresses": {
     "pharos-testnet": "0x7343580680a6c6ab6f408704266e9b118fc845f22de28a5ec5a0c410309e5dac",
-    "pharos": "0x5a036d358b0e4eae4acde2e664b55e892031593250126a5c7f9f0ba229e99e5d"
+    "pharos": "0x5a036d358b0e4eae4acde2e664b55e892031593250126a5c7f9f0ba229e99e5d",
+    "0g": "0x90d00ff854c4ed57ec35b11daa8ccfcb340808cd"
   }
 }

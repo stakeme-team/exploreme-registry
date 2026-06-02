@@ -9,6 +9,7 @@
   "identity": "CB5C07F7D6458403",
   "securityContact": "cosmos-security@p2p.org",
   "addresses": {
-    "sei": "seivaloper1qmpxlswwk42wya67t7zsaawf3vur03cuevss0h"
+    "sei": "seivaloper1qmpxlswwk42wya67t7zsaawf3vur03cuevss0h",
+    "0g": "0x1dd8a2a483c4ce7a1568e54d719edc46161c0117"
   }
 }

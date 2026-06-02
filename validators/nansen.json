@@ -10,6 +10,7 @@
   "securityContact": null,
   "addresses": {
     "pharos-testnet": "0x3f77056d6694a328092e10939abd1daa05c4d2f200d47780b424163f5aa30fe4",
-    "somnia": "0xb53dcbbe523a184eec865977966e164b65bd1285"
+    "somnia": "0xb53dcbbe523a184eec865977966e164b65bd1285",
+    "0g": "0xa3e7f0832c30a5219e190e39d5e1c9c8c110c4b0"
   }
 }

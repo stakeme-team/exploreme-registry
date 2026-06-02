@@ -9,6 +9,7 @@
   "identity": "F87ADDB700C0CC94",
   "securityContact": "hello@lavenderfive.com",
   "addresses": {
-    "sei": "seivaloper140l6y2gp3gxvay6qtn70re7z2s0gn57zl6nups"
+    "sei": "seivaloper140l6y2gp3gxvay6qtn70re7z2s0gn57zl6nups",
+    "0g": "0xd0d29518c50a28375e5755b144a145913c916bed"
   }
 }

@@ -10,6 +10,7 @@
   "securityContact": "contact@bharvest.io",
   "addresses": {
     "pharos-testnet": "0xf711b046c2ad410b5a54bc9cc062727123c95bf18a735c1b3132ab2b0e5ee923",
-    "pharos": "0x22a1ca8db5989f151e38d9498f2f758456f7edfeb48bc0ac914d5935a9907b46"
+    "pharos": "0x22a1ca8db5989f151e38d9498f2f758456f7edfeb48bc0ac914d5935a9907b46",
+    "0g": "0x143f21f64503c3e1405a8ed85b4d0c84a7ff73a2"
   }
 }
