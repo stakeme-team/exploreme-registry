@@ -1,0 +1,15 @@
+{
+  "moniker": "ForestStaking",
+  "details": null,
+  "banner": "https://assets.foreststaking.com/banner.jpeg",
+  "avatar": "https://assets.foreststaking.com/logo.svg",
+  "twitterUrl": "https://x.com/foreststaking",
+  "githubUrl": null,
+  "webUrl": "https://ForestStaking.com",
+  "identity": null,
+  "securityContact": null,
+  "addresses": {
+    "pharos-testnet": "0x5dcc570dbfe9957c9b11a09522147b41dc104db8301eaa81b5f24e2328db14cf",
+    "pharos": "0xeafeace1003da69eaee009681ae8d6a59c108feecae58ff0121e19e0a9b89130"
+  }
+}
