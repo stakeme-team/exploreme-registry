@@ -1,0 +1,13 @@
+{
+  "moniker": "stakefish",
+  "details": "The leading validator for Proof of Stake blockchains. Non-custodial. Secure. World-class. Staking has never been this easy.",
+  "avatar": "https://s3.amazonaws.com/keybase_processed_uploads/a45f7abadca25326bc31157dd7aa3605_360_360.jpg",
+  "twitterUrl": "https://x.com/stakefish",
+  "githubUrl": "https://github.com/stakefish",
+  "webUrl": "https://stake.fish",
+  "identity": "46F5AA02E2F25668",
+  "securityContact": "security@stake.fish",
+  "addresses": {
+    "pharos": "0x81f30f0996dcc65b94cf70be4311708c5491a5ef87d0d68552239f2cf3219897"
+  }
+}
