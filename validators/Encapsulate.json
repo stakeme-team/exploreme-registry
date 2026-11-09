@@ -1,0 +1,16 @@
+{
+  "moniker": "Encapsulate",
+  "details": "Validator infrastructure for new chains, since 2020. Early to testnet, quick to upgrade, easy to reach. Trusted by Sui, NEAR, Monad, Lido, Starknet and more.",
+  "banner": "https://assets.super.so/d7300a44-6aa9-4b9e-a149-0076eb69ca9d/uploads/cover/4e516269-69f1-4124-8bbc-b91786b5b082.png",
+  "avatar": "https://raw.githubusercontent.com/encapsulate-xyz/assets/refs/heads/main/encapsulate.png",
+  "twitterUrl": "https://x.com/encaphq",
+  "githubUrl": "https://github.com/encapsulate-xyz",
+  "webUrl": "https://encapsulate.xyz",
+  "identity": "B68A51B88F28CEF1",
+  "securityContact": "security@encapsulate.xyz",
+  "addresses": {
+    "pharos": "0x6d565aee07f2d2e8da0fe77e5a62352e9d5fbb4007c4929c64c0268835a1f926",
+    "monad": "0x02f9eb1163e3d2ebde9f06fac83d8875e04997ce4711e44e63033fd7ad7a39581b",
+    "lumera": "lumeravaloper18qpd0yrk0gkcvah0zpyq89uqzd2y6q25dlmcux"
+  }
+}
