@@ -1,0 +1,12 @@
+{
+  "moniker": "SenseiNode",
+  "details": "Institutional validator by SenseiNode. SOC 2 Type II & ISO 27001 certified. Redundant bare-metal + cloud infra, slashing protection, 24/7 on-call ops team. Trusted by banks, fintechs and custodians across LATAM & Europe.",
+  "banner": "https://media.senseinode.com/banner_blue.png",
+  "avatar": "https://media.senseinode.com/senseinode_logo_blue.webp",
+  "twitterUrl": "https://x.com/senseinode",
+  "githubUrl": "https://github.com/Sensei-Node",
+  "webUrl": "https://www.senseinode.com/",
+  "addresses": {
+    "pharos": "0x7370b27fa412fe36712d66c089a687e43f38ad34e5d454e0cdc13b60f2217560"
+  }
+}
